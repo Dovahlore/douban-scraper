@@ -9,3 +9,4 @@ venv/
 results*.json
 *.log
 .DS_Store
+.idea
